@@ -1,8 +1,6 @@
 ![Banner](https://github.com/cigital/calculadoraMusical/blob/main/screenshots/banner.png)
 
 # 🎵 Calculadora Musical 🎵 
-![calculadora](./screenshots/calculadora.png)
-
 Este proyecto sirve para reproducir sonidos con los resultados de la calculadora mediante MIDI, 
 puedes cambiar de instrumento e velocidad si lo deseas.
 
