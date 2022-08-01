@@ -34,7 +34,7 @@ Ejecuta el archivo calculadora.py
 python3 calculadora.py
 ```
 
-## Configuraciones
+## Configurar
 Puedes elegir entre "FluidR3_GM.sf2" o "freepats-general-midi.sf2", cambia en la linea de 5 en "reproducir_sonido.py" al que quieras.
 
 En "calculadora.py" esta comentado el boton PI, si quieres este boton, descomenta las lineas 24, 102 y 281-290.
