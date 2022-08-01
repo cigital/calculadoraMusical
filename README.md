@@ -1,3 +1,5 @@
+![Banner](https://github.com/cigital/calculadoraMusical/blob/main/screenshots/banner.png)
+
 # 🎵 Calculadora Musical 🎵 
 ![calculadora](./screenshots/calculadora.png)
 
