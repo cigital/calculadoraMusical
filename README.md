@@ -80,7 +80,7 @@ Los instrumentos [ 113 - 119 ] su maximo es 96
 Los instrumentos [ 120 - 127 ] su maximo es 115
 
 ## Aclaración
-No funciona con numero muy pequeños, tampoco si tu resultado lleva letras
+No funciona con numero muy pequeños.
 
 ## Referencias
 ![Mingus doc](https://bspaans.github.io/python-mingus/index.html)
