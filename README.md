@@ -1,4 +1,4 @@
-# 🎵 Calculadora Musical 🎵 
+![calculadora](./screenshots/calculadora.png) # 🎵 Calculadora Musical 🎵 
 Este proyecto sirve para reproducir sonidos con los resultados de la calculadora mediante midi, 
 puedes cambiar de instrumento e velocidad si lo deseas.
 
