@@ -7,6 +7,6 @@ pip uninstall -r ./requirements.txt
 
 echo -e "\nBorrando el directorio..."
 
-sudo rm -rf entorno
+rm -rf entorno
 
 echo -e "\nSe acabó la desinstalación"
