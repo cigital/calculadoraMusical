@@ -1,4 +1,4 @@
-![Banner](https://github.com/cigital/calculadoraMusical/blob/main/screenshots/banner.png)
+![Banner](https://github.com/cigital/calculadoraMusical/blob/main/images/banner.png)
 
 # 🎵 Calculadora Musical 🎵 
 ![Github](https://img.shields.io/github/last-commit/cigital/calculadoraMusical)
