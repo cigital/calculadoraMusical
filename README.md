@@ -90,8 +90,4 @@ Los instrumentos [ 120 - 127 ] su maximo es 115
 No funciona con numero muy pequeños.
 
 ## Referencias
-![Mingus doc](https://bspaans.github.io/python-mingus/index.html)
-
-![Midi instruments]( https://soundprogramming.net/file-formats/general-midi-instrument-list/)
-
-![Plantilla de calculadora](https://github.com/programiz/Calculator)
+[Mingus doc](https://bspaans.github.io/python-mingus/index.html) | [Midi instruments]( https://soundprogramming.net/file-formats/general-midi-instrument-list/) | [Plantilla de calculadora](https://github.com/programiz/Calculator)
