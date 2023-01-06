@@ -54,7 +54,7 @@ Para tener otro instrumento cambia en la linea 6 en el archivo "reproducir_sonid
 
 Y en el archivo "calculadora.py" cambia en la linea 200 el numero 84 por la nota maxima que tenga tu instrumento.
 
-Notas maximas intrumentos:
+Notas máximas instrumentos:
 
 Nota 72 --> [ 33 - 40 ] , [ 65 - 72 ]
 
