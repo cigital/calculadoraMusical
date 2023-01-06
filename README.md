@@ -50,44 +50,29 @@ Puedes probar los instrumentos ejecutando el archivo "reproducir_instrumento.py"
 python3 reproducir_instrumento.py
 ```
 
-Para tener otro instrumento cambia en la linea 6 en el archivo "reproducir_sonido.py" el valor 44 por el numero de instrumento que deseas, los numeros de instrumentos validos estan ![aquí](htt  ips://soundprogramming.net/file-formats/general-midi-instrument-list/ ). 
+Para tener otro instrumento cambia en la linea 6 en el archivo "reproducir_sonido.py" el valor 44 por el numero de instrumento que deseas, los numeros de instrumentos validos estan [aquí](https://soundprogramming.net/file-formats/general-midi-instrument-list/ ). 
 
-Y en el archivo "calculadora.py" cambia en la linea 200 el numero 84 por el numero de teclas maximas que tenga tu instrumento.
+Y en el archivo "calculadora.py" cambia en la linea 200 el numero 84 por la nota maxima que tenga tu instrumento.
 
-Los instrumentos [ 0 - 8 ] su maximo es 96
+Notas maximas intrumentos:
 
-Los instrumentos [ 9 - 16 ] su maximo es 115
-
-Los instrumentos [ 17 - 24 ] su maximo es 96
-
-Los instrumentos [ 25 - 32 ] su maximo es 115 
-
-Los instrumentos [ 33 - 40 ] su maximo es 72 
-
-Los instrumentos [ 41 - 48 ] su maximo es 84
-
-Los instrumentos [ 49 - 56 ] su maximo es 84
-
-Los instrumentos [ 57 - 64 ] su maximo es 84
-
-Los instrumentos [ 65 - 72 ] su maximo es 72
-
-Los instrumentos [ 73 - 80 ] su maximo es 115
-
-Los instrumentos [ 81 - 88 ] su maximo es 115
-
-Los instrumentos [ 89 - 96 ] su maximo es 96
-
-Los instrumentos [ 97 - 104 ] su maximo es 96
-
-Los instrumentos [ 105 - 112 ] su maximo es 115
-
-Los instrumentos [ 113 - 119 ] su maximo es 96 
-
-Los instrumentos [ 120 - 127 ] su maximo es 115
+[ 0 - 8 ] --> 96
+[ 9 - 16 ] --> 115
+[ 17 - 24 ] --> 96
+[ 25 - 32 ] --> 115 
+[ 33 - 40 ] --> 72 
+[ 41 - 48 ] --> 84
+[ 49 - 56 ] --> 84
+[ 57 - 64 ] --> 84
+[ 65 - 72 ] --> 72
+[ 73 - 88 ] --> 115
+[ 89 - 104 ] su maximo es 96
+[ 105 - 112 ] --> es 115
+[ 113 - 119 ] --> 96 
+[ 120 - 127 ] su maximo es 115
 
 ## Aclaración
-No funciona con numero muy pequeños.
+El progama no funciona con numero muy pequeños.
 
 ## Referencias
 [Mingus doc](https://bspaans.github.io/python-mingus/index.html) | [Midi instruments]( https://soundprogramming.net/file-formats/general-midi-instrument-list/) | [Plantilla de calculadora](https://github.com/programiz/Calculator)
