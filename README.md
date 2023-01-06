@@ -57,8 +57,11 @@ Y en el archivo "calculadora.py" cambia en la linea 200 el numero 84 por la nota
 Notas maximas intrumentos:
 
 Nota 72 --> [ 33 - 40 ] , [ 65 - 72 ]
+
 Nota 84 --> [ 41 - 48 ] , [ 49 - 56 ] , [ 57 - 64 ]
+
 Nota 96 --> [ 0 - 8 ] , [ 17 - 24 ] , [ 89 - 104 ] , [ 113 - 119 ]
+
 Nota 115 --> [ 9 - 16 ] , [ 25 - 32 ] , [ 73 - 88 ] , [ 105 - 112 ] ,[ 120 - 127 ]
 
 ## Aclaración
